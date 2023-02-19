@@ -1,2 +1,2 @@
-# ASP.NETCore.ExcexExport
-ASP.NETCore.ExcexExport Console App using ClosedXML
+# ASP.NETCore.ExcelExport
+ASP.NETCore.ExcelExport Console App using ClosedXML
